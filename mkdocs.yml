@@ -1,0 +1,6 @@
+site_name: OMS Product Documentation
+site_url: https://help.oms.com/
+nav:
+    - Home: index.md
+    - Quickstart: quickstart.md
+    - API Docs: apidocs.md
